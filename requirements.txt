@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+python-dotenv
+python-kis
+typing-extensions
+scikit-learn
+ta 
+mplfinance
